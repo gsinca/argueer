@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+}
+.videobox{
+    width: auto
+}
+.list-group-item.active{
+    background-color: #ccc;
+    border-color: #333;
+}
+.matchPreview{
+      background-color: lightblue;
+    border: 1px solid black;
+    height: 177px;
+    margin-top: 40px;
+    text-align: center;
+    width: 314px;
+    display: flex;
+    align-items: center;  
+}
+.partPhoto{
+    background-color: red;
+    border: 1px solid black;
+    height: 150px;
+    margin-top: 40px;
+    text-align: center;
+    width: 150px;
+    display: flex;
+    align-items: center;
+}
